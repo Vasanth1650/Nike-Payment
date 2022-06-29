@@ -40,4 +40,3 @@ app.post('/razorpay' ,async(req,res)=>{
   
 })
 
-app.listen(8081)
