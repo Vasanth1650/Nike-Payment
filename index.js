@@ -40,3 +40,4 @@ app.post('/razorpay' ,async(req,res)=>{
   
 })
 
+.listen(process.env.PORT || 5000)
