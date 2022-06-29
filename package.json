@@ -4,9 +4,7 @@
   "main": "index.js",
   "author": "Leigh Halliday",
   "license": "MIT",
-  "scripts": {
-    "start": "nodemon index.js"
-  },
+  
   "dependencies": {
     "@stripe/react-stripe-js": "^1.0.2",
     "@stripe/stripe-js": "^1.0.1",
